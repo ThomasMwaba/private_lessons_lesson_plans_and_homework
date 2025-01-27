@@ -1,4 +1,4 @@
-### python for kids
+### python for secondary school
 
 This repository has got the Python basics for beginners in Jupyter Notebook (`.ipynb`) format. You'll find:
 
